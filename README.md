@@ -33,18 +33,16 @@ Utilize the Command pattern for managing orders in the kitchen. Chefs can execut
 Apply the Observer pattern for notifying waiters when orders are ready to be served. Chefs and kitchen staff can act as subjects that notify the waiters (observers) when dishes are prepared.
 
 # 5.3 Additional Instructions:
-
 ## Visitor Pattern:
 Use the Visitor pattern for chefs, waiters, and managers to visit tables and assess customer satisfaction. This pattern can help in adding functionality to visit tables without modifying the customer or table classes.
 Additional Ideas:
 
 ### For the extended design, you can consider the following patterns:
-
 ## Decorator Pattern:
 Apply the Decorator pattern to create a flexible and extensible system for the bar with various cocktails. You can dynamically add cocktail ingredients or decorations to drinks.
 
 ## Facade Pattern:
 Implement the Facade pattern for managing valet service. The facade can simplify the interaction between the customer, valet, and car retrieval process.
-Singleton Pattern:
 
+##Singleton Pattern:
 Use the Singleton pattern for managing inventory and accounting. This ensures that there's a single point of access for maintaining inventory levels and handling financial transactions.
