@@ -5,6 +5,7 @@ A restaurant is a chaotic ensemble of various processes happening at the same ti
 
 # 5.1 The Floor:
 ## Observer Pattern:
+![Obs](https://github.com/Motaung80/restaurant-simulator/assets/86393854/20c768f8-e5d8-4ba9-9515-9cd686ffd498)
 Use the Observer pattern to manage customer expectations and satisfaction. Customers, waiters, and managers can be observers, and the restaurant can notify them about events such as order completion, table availability, or complaints.
 
 ## Command Pattern:
