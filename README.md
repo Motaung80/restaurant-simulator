@@ -45,5 +45,5 @@ Apply the Decorator pattern to create a flexible and extensible system for the b
 ## Facade Pattern:
 Implement the Facade pattern for managing valet service. The facade can simplify the interaction between the customer, valet, and car retrieval process.
 
-##Singleton Pattern:
+## Singleton Pattern:
 Use the Singleton pattern for managing inventory and accounting. This ensures that there's a single point of access for maintaining inventory levels and handling financial transactions.
