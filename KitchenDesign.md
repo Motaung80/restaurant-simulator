@@ -12,7 +12,7 @@ Components: Kitchen (subject), Waiters (observers).
 Description: When an order is ready, the kitchen notifies the waiter associated with that order. Each waiter can observe multiple orders, and the kitchen will have a mechanism to notify the right waiter when an order is done.
 
 ## Strategy Pattern:
-
+![Stra](https://github.com/Motaung80/restaurant-simulator/assets/86393854/4150ec81-dc94-4978-ae1d-739d5eb8d77f)
 Use Case: Different methods of preparation (e.g., grilled vs fried).
 Components: Preparation Strategy Interface, Grilling Strategy, Frying Strategy, etc.
 Description: The order will specify the preparation strategy to use, and the chefs can switch between these strategies on-the-fly to prepare the dish.
