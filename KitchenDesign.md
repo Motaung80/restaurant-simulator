@@ -1,3 +1,5 @@
+![Screenshot (226)](https://github.com/Motaung80/notice-board/assets/86393854/504af605-5b35-494e-afe7-2b2993d66be7)
+
 # Design Patterns for the Kitchen:
 ## Chain of Responsibility Pattern:
 ![cha](https://github.com/Motaung80/restaurant-simulator/assets/86393854/043a03c1-d7b6-438a-9437-4feffc2cec6f)
