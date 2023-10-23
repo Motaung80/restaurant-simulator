@@ -18,7 +18,7 @@ Components: Preparation Strategy Interface, Grilling Strategy, Frying Strategy, 
 Description: The order will specify the preparation strategy to use, and the chefs can switch between these strategies on-the-fly to prepare the dish.
 
 ## Factory Pattern:
-
+![Fact](https://github.com/Motaung80/restaurant-simulator/assets/86393854/5571c4ab-0f05-44c5-b22e-ab9f38e13328)
 Use Case: Creating dishes based on the Build-Your-Own choices.
 Components: DishFactory, Various Dish Types.
 Description: Given a set of choices by the customer, the DishFactory will create and return the correct dish type, which then gets processed by the kitchen.
