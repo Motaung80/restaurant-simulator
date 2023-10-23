@@ -25,6 +25,7 @@ Description: Given a set of choices by the customer, the DishFactory will create
 
 ## Command Pattern:
 
+![Comm](https://github.com/Motaung80/restaurant-simulator/assets/86393854/61bd283b-2e77-4b5b-a125-2b02abd6435c)
 Use Case: Waiters passing orders to the kitchen.
 Components: OrderCommand, Waiter, Kitchen Receiver.
 Description: When a waiter gets an order, they create an OrderCommand with the details and pass it to the kitchen. The kitchen, acting as the receiver, will then execute the command, preparing the order accordingly.
