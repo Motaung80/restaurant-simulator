@@ -6,7 +6,7 @@ Components: Head Chef, Fry Cook, other specific chefs.
 Description: Each chef represents a link in the chain. When an order comes in, it can be passed down the chain. Each chef performs their specific operation on the dish. If a chef can't handle a particular task, it's passed on to the next chef in the line. The order finally reaches the head chef for plating.
 
 ## Observer Pattern:
-
+![Obser](https://github.com/Motaung80/restaurant-simulator/assets/86393854/1c8dc7b6-c973-4dce-bfcb-fb959600850a)
 Use Case: Notifying the waiter when the order is ready.
 Components: Kitchen (subject), Waiters (observers).
 Description: When an order is ready, the kitchen notifies the waiter associated with that order. Each waiter can observe multiple orders, and the kitchen will have a mechanism to notify the right waiter when an order is done.
