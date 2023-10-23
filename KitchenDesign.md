@@ -1,6 +1,6 @@
 # Design Patterns for the Kitchen:
 ## Chain of Responsibility Pattern:
-
+![cha](https://github.com/Motaung80/restaurant-simulator/assets/86393854/043a03c1-d7b6-438a-9437-4feffc2cec6f)
 Use Case: Handling different stages of food preparation.
 Components: Head Chef, Fry Cook, other specific chefs.
 Description: Each chef represents a link in the chain. When an order comes in, it can be passed down the chain. Each chef performs their specific operation on the dish. If a chef can't handle a particular task, it's passed on to the next chef in the line. The order finally reaches the head chef for plating.
